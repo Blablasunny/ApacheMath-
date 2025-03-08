@@ -2,6 +2,7 @@
 
 DFD 0 уровня
 
+![image](https://github.com/user-attachments/assets/5330eaed-e506-4d52-b349-7ff618c812de)
 
 DFD 1 уровня
 
