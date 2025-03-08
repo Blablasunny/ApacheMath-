@@ -54,7 +54,7 @@ public class GUI extends JFrame {
         Dimension comboBoxSize = new Dimension(300, 40);
         comboBox.setPreferredSize(comboBoxSize);
 
-        Color buttonColor = new Color(0, 128, 255);
+        Color buttonColor = new Color(37, 42, 235);
         openButton.setBackground(buttonColor);
         openButton.setForeground(Color.WHITE);
         saveButton.setBackground(buttonColor);
