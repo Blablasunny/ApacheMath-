@@ -1,24 +1,29 @@
 Расчет статистических показателей по выборкам
 
+DFD 0 уровня
+
+
+DFD 1 уровня
+
+
+
 Диаграмма классов
 
 ![Laba_2 drawio (1)](https://github.com/user-attachments/assets/244090f0-d57f-44b3-8dd2-f560f3eac3be)
 
 Исходный файл XLSX
 
-![image](https://github.com/user-attachments/assets/21b6091a-06a2-479d-bf33-e6059451a12b)
+![image](https://github.com/user-attachments/assets/d6939895-ef34-49e2-99a0-a31fa21f66e0)
 
 Демонстрация работы приложения
 
-![image](https://github.com/user-attachments/assets/c69772ea-c05c-4f04-96e7-7efe07a119c9)
+![image](https://github.com/user-attachments/assets/21b6091a-06a2-479d-bf33-e6059451a12b)
 
 Обработка исключений
 
 ![image](https://github.com/user-attachments/assets/0c517f69-f959-4480-933c-8c7b5fd24890)
 
 ![image](https://github.com/user-attachments/assets/4e780214-99da-470f-bea1-5aaa54807f60)
-
-![image](https://github.com/user-attachments/assets/f082c3a6-1b7e-4f04-8019-cba1a96ad058)
 
 Итоговый файл XLSX
 
