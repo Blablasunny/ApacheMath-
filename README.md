@@ -6,7 +6,7 @@
 
 Исходный файл XLSX
 
-![image](https://github.com/user-attachments/assets/33ad54e0-bb7a-4270-b9e0-346c3258c847)
+![image](https://github.com/user-attachments/assets/1d6f99aa-3653-410f-96f0-766e8f6f1a0e)
 
 Демонстрация работы приложения
 
@@ -20,9 +20,9 @@
 
 Итоговый файл XLSX
 
-![image](https://github.com/user-attachments/assets/7b877bbf-cf21-4be1-98b9-355a188827eb)
+![image](https://github.com/user-attachments/assets/046f11a2-d550-4353-87d5-b43b345dca42)
 
-![image](https://github.com/user-attachments/assets/a30a6c22-c931-4359-ba42-b9b7f99412b1)
+![image](https://github.com/user-attachments/assets/5c4ed3a9-ea7e-4a5f-9c92-ee7a5c9b3172)
 
 
 
