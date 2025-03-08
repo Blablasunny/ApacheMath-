@@ -6,17 +6,19 @@
 
 Исходный файл XLSX
 
-![image](https://github.com/user-attachments/assets/1d6f99aa-3653-410f-96f0-766e8f6f1a0e)
+![image](https://github.com/user-attachments/assets/21b6091a-06a2-479d-bf33-e6059451a12b)
 
 Демонстрация работы приложения
 
-![image](https://github.com/user-attachments/assets/2a57924b-6801-4d56-a704-afcc93228cc7)
+![image](https://github.com/user-attachments/assets/c69772ea-c05c-4f04-96e7-7efe07a119c9)
 
 Обработка исключений
 
-![image](https://github.com/user-attachments/assets/80e08338-a4d8-4041-af54-ae80731b9d26)
+![image](https://github.com/user-attachments/assets/0c517f69-f959-4480-933c-8c7b5fd24890)
 
-![image](https://github.com/user-attachments/assets/05d9260f-b53a-4c75-8514-ead5533277e9)
+![image](https://github.com/user-attachments/assets/4e780214-99da-470f-bea1-5aaa54807f60)
+
+![image](https://github.com/user-attachments/assets/f082c3a6-1b7e-4f04-8019-cba1a96ad058)
 
 Итоговый файл XLSX
 
