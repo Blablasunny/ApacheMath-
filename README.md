@@ -6,7 +6,7 @@ DFD 0 уровня
 
 DFD 1 уровня
 
-![image](https://github.com/user-attachments/assets/3e25bd6d-1028-47f3-b22a-dabf41de6e63)
+![image](https://github.com/user-attachments/assets/295a81cd-f15c-4dc8-8cc3-8e3a7b2dae1c)
 
 Диаграмма классов
 
