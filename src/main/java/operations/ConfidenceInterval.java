@@ -47,9 +47,9 @@ public class ConfidenceInterval implements Operation {
         for (int ind = 0; ind < list.size(); ind++) {
             NormalDistribution normalDistribution = new NormalDistribution();
             double quant = normalDistribution.inverseCumulativeProbability(1 - (1 - confidenceLevel) / 2);
-            double marginOfError = quant * (sd.get(ind) / size.get(ind));
-            double lowerBound = mean.get(ind) - marginOfError;
-            double upperBound = mean.get(ind) + marginOfError;
+            double marginError = quant * (sd.get(ind) / Math.sqrt(size.get(ind)));
+            double lowerBound = mean.get(ind) - marginError;
+            double upperBound = mean.get(ind) + marginError;
             String interval = "[" + lowerBound + "; " + upperBound + "]";
             result.add(interval);
         }
