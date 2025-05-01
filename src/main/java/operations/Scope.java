@@ -17,10 +17,11 @@ public class Scope implements Operation {
     }
 
     public void calculate() {
-        DescriptiveStatistics stats = new DescriptiveStatistics();
-        for (ArrayList<Double> doubles : list) {
-            doubles.forEach(stats::addValue);
-            result.add(stats.getMax() - stats.getMin());
+        ArrayList<DescriptiveStatistics> stats = new ArrayList<>();
+        for (int i=0;i<list.size();i++){
+            stats.add(new DescriptiveStatistics());
+            list.get(i).forEach(stats.get(i)::addValue);
+            result.add(stats.get(i).getMax() - stats.get(i).getMin());
         }
     }
 
